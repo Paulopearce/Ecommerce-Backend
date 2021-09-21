@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.1.5",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "e-commerce-back-end",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
